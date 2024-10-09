@@ -1,8 +1,0 @@
-{
-  "label": "Bases de datos - MySQL",
-  "position": 4,
-  "link": {
-    "type": "generated-index",
-    "description": "Un environment (entorno) es un espacio aislado donde puedes instalar y gestionar diferentes versiones de bibliotecas y dependencias sin afectar el sistema global o otros proyectos. Esto permite que múltiples proyectos que requieren diferentes configuraciones, versiones de paquetes o incluso versiones de Python coexistan en la misma máquina."
-  }
-}
