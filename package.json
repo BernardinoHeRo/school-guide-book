@@ -1,6 +1,6 @@
 {
-  "name": "behero-guidebook",
-  "version": "0.0.0",
+  "name": "school-guide-book",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
@@ -16,11 +16,11 @@
   "dependencies": {
     "@docusaurus/core": "3.5.2",
     "@docusaurus/preset-classic": "3.5.2",
-    "@mdx-js/react": "^3.0.0",
-    "clsx": "^2.0.0",
-    "prism-react-renderer": "^2.3.0",
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "@mdx-js/react": "3.0.0",
+    "clsx": "2.0.0",
+    "prism-react-renderer": "2.3.0",
+    "react": "18.0.0",
+    "react-dom": "18.0.0"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.5.2",
@@ -39,6 +39,6 @@
     ]
   },
   "engines": {
-    "node": ">=18.0"
+    "node": "18.0"
   }
 }
