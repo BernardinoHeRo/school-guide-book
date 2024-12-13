@@ -17,3 +17,9 @@ Es una herramienta en línea gratuita que permite optimizar imágenes para la we
 <div style={{"text-align":"center"}}>
     <a href="https://squoosh.app/">https://squoosh.app/</a>
 </div>
+
+### Material Design guide
+[https://m3.material.io/](https://m3.material.io/)
+
+### Developer Apple Design
+[https://developer.apple.com/design/](https://developer.apple.com/design/)
